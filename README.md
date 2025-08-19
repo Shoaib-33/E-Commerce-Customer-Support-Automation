@@ -38,4 +38,5 @@ This project demonstrates how to automate customer support and order management 
    ```bash
    git clone https://github.com/your-username/n8n-customer-support.git
    cd E-Commerce-Customer-Support-Automation
-
+2. Open n8n and then open the file `Messanger_bot.json`.
+3. Add all the credentials as required to run the workflow.
