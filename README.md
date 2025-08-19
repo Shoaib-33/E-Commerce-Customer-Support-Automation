@@ -12,9 +12,7 @@ This project demonstrates how to automate customer support and order management 
 - Automated replies to customer queries about **price, stock, specifications, and usage**  
 - Order placement automatically logged into a **Bills spreadsheet**    
 - Compact one-line JSON output for API requests (HTTP Request node friendly)  
-- Separate delivery rules:
-  - Inside Dhaka City: Delivery charge ৳70, within 48 hours  
-  - Outside Dhaka City: Delivery charge ৳130, within 3–4 days  
+
 
 ---
 
