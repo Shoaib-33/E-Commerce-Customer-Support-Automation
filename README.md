@@ -27,7 +27,7 @@ This project demonstrates how to automate customer support and order management 
   <img src="images/6.png" alt="Screenshot 6" width="30%"/>
 </p>
 
-
+After this the order is placed in the excel sheet of named 'Bills'.
 ---
 
 ##  Tech Stack
