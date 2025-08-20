@@ -11,7 +11,21 @@ This project demonstrates how to automate customer support and order management 
 ##  Features
 - Automated replies to customer queries about **price, stock, specifications, and usage**  
 - Order placement automatically logged into a **Bills spreadsheet**    
-- Compact one-line JSON output for API requests (HTTP Request node friendly)  
+- Compact one-line JSON output for API requests (HTTP Request node friendly)
+- 
+##  Screenshots
+
+<p align="center">
+  <img src="images/1.png" alt="Screenshot 1" width="30%"/>
+  <img src="images/2.png" alt="Screenshot 2" width="30%"/>
+  <img src="images/3.png" alt="Screenshot 3" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="images/4.png" alt="Screenshot 4" width="30%"/>
+  <img src="images/5.png" alt="Screenshot 5" width="30%"/>
+  <img src="images/6.png" alt="Screenshot 6" width="30%"/>
+</p>
 
 
 ---
